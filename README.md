@@ -69,3 +69,5 @@ This HR Analytics dashboard empowers HR professionals with **data-driven insight
 ---
 
 > 🎯 *This project highlights how Power BI can transform raw HR data into actionable business intelligence.*
+> 📥 **Download the Power BI Dashboard Report**: [HR_Attrition_Dashboard.pbix](./HR_Attrition_Dashboard.pbix)
+
